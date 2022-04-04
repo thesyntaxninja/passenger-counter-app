@@ -1,2 +1,2 @@
 # passenger-counter-app
- A simple counter app
+ A stupid simple javascript counter app for experimentation
